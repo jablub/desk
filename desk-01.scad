@@ -8,7 +8,7 @@ y=1;
 z=2;
 
 inlegy=44; // inside the leg width
-ls=[44,22,1800];
+ls=[69,22,1800];
 ss=[dx,inlegy,inlegy];
 apronsupport=[dx,inlegy,inlegy];
 tixs=220;
